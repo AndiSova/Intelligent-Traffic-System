@@ -4,13 +4,7 @@ An intelligent traffic management system that tries to improve traffic flow and 
 Agent Positions:
 
 
-Traffic Monitoring Agent: This agent uses sensors, cameras, or other data sources to monitor traffic conditions and relay the data to other agents.
-
-
-To maintain smooth traffic flow, the traffic control agent controls traffic signals based on data from the monitoring agent.
-
-
-To minimize traffic disruptions, emergency services agents coordinate and monitor emergency situations.
+Traffic Monitoring Agent: This agent uses sensors, cameras, or other data sources to monitor traffic conditions and relay the data to other agents. To maintain smooth traffic flow, the traffic control agent controls traffic signals based on data from the monitoring agent. To minimize traffic disruptions, emergency services agents coordinate and monitor emergency situations.
 
 
 Driver Assistance Agent: Provides real-time traffic information, alternate routes, and other information to drivers via a mobile application or other means.
